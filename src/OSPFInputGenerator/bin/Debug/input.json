@@ -1,0 +1,97 @@
+[
+  {
+    "Name": "A",
+    "Routes": [
+      {
+        "Destination": "B",
+        "Cost": 1,
+        "NextHop": "B"
+      },
+      {
+        "Destination": "C",
+        "Cost": 3,
+        "NextHop": "C"
+      }
+    ]
+  },
+  {
+    "Name": "B",
+    "Routes": [
+      {
+        "Destination": "A",
+        "Cost": 1,
+        "NextHop": "A"
+      },
+      {
+        "Destination": "C",
+        "Cost": 1,
+        "NextHop": "C"
+      },
+      {
+        "Destination": "E",
+        "Cost": 2,
+        "NextHop": "E"
+      }
+    ]
+  },
+  {
+    "Name": "C",
+    "Routes": [
+      {
+        "Destination": "A",
+        "Cost": 3,
+        "NextHop": "A"
+      },
+      {
+        "Destination": "B",
+        "Cost": 1,
+        "NextHop": "B"
+      },
+      {
+        "Destination": "D",
+        "Cost": 3,
+        "NextHop": "D"
+      }
+    ]
+  },
+  {
+    "Name": "D",
+    "Routes": [
+      {
+        "Destination": "C",
+        "Cost": 3,
+        "NextHop": "C"
+      },
+      {
+        "Destination": "E",
+        "Cost": 1,
+        "NextHop": "E"
+      }
+    ]
+  },
+  {
+    "Name": "E",
+    "Routes": [
+      {
+        "Destination": "D",
+        "Cost": 1,
+        "NextHop": "D"
+      },
+      {
+        "Destination": "F",
+        "Cost": 10,
+        "NextHop": "F"
+      }
+    ]
+  },
+  {
+    "Name": "F",
+    "Routes": [
+      {
+        "Destination": "E",
+        "Cost": 10,
+        "NextHop": "E"
+      }
+    ]
+  }
+]

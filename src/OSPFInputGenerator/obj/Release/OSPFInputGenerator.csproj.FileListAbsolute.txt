@@ -1,0 +1,10 @@
+C:\Users\honza\source\repos\OSPF\OSPFInputGenerator\bin\Release\OSPFInputGenerator.exe.config
+C:\Users\honza\source\repos\OSPF\OSPFInputGenerator\bin\Release\OSPFInputGenerator.exe
+C:\Users\honza\source\repos\OSPF\OSPFInputGenerator\bin\Release\OSPFInputGenerator.pdb
+C:\Users\honza\source\repos\OSPF\OSPFInputGenerator\bin\Release\OSPFCalculator.exe.config
+C:\Users\honza\source\repos\OSPF\OSPFInputGenerator\bin\Release\Newtonsoft.Json.xml
+C:\Users\honza\source\repos\OSPF\OSPFInputGenerator\obj\Release\OSPFInputGenerator.csprojAssemblyReference.cache
+C:\Users\honza\source\repos\OSPF\OSPFInputGenerator\obj\Release\OSPFInputGenerator.csproj.CoreCompileInputs.cache
+C:\Users\honza\source\repos\OSPF\OSPFInputGenerator\obj\Release\OSPFInputGenerator.csproj.CopyComplete
+C:\Users\honza\source\repos\OSPF\OSPFInputGenerator\obj\Release\OSPFInputGenerator.exe
+C:\Users\honza\source\repos\OSPF\OSPFInputGenerator\obj\Release\OSPFInputGenerator.pdb

@@ -1,0 +1,9 @@
+c:\users\honza\source\repos\OSPF\OSPFCalculator\bin\Release\OSPFCalculator.exe.config
+c:\users\honza\source\repos\OSPF\OSPFCalculator\bin\Release\OSPFCalculator.exe
+c:\users\honza\source\repos\OSPF\OSPFCalculator\bin\Release\OSPFCalculator.pdb
+c:\users\honza\source\repos\OSPF\OSPFCalculator\bin\Release\Newtonsoft.Json.xml
+c:\users\honza\source\repos\OSPF\OSPFCalculator\obj\Release\OSPFCalculator.csproj.CoreCompileInputs.cache
+c:\users\honza\source\repos\OSPF\OSPFCalculator\obj\Release\OSPFCalculator.csproj.CopyComplete
+c:\users\honza\source\repos\OSPF\OSPFCalculator\obj\Release\OSPFCalculator.exe
+c:\users\honza\source\repos\OSPF\OSPFCalculator\obj\Release\OSPFCalculator.pdb
+c:\Users\honza\source\repos\OSPF\OSPFCalculator\obj\Release\OSPFCalculator.csprojAssemblyReference.cache

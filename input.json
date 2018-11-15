@@ -1,0 +1,797 @@
+[
+  {
+    "Name": "A",
+    "Routes": [
+      {
+        "Destination": "B",
+        "Cost": 2,
+        "NextHop": "B"
+      },
+      {
+        "Destination": "D",
+        "Cost": 1,
+        "NextHop": "D"
+      },
+      {
+        "Destination": "(RO)",
+        "Cost": 3,
+        "NextHop": "(RO)"
+      }
+    ]
+  },
+  {
+    "Name": "B",
+    "Routes": [
+      {
+        "Destination": "A",
+        "Cost": 2,
+        "NextHop": "A"
+      },
+      {
+        "Destination": "C",
+        "Cost": 1,
+        "NextHop": "C"
+      },
+      {
+        "Destination": "G",
+        "Cost": 5,
+        "NextHop": "G"
+      }
+    ]
+  },
+  {
+    "Name": "C",
+    "Routes": [
+      {
+        "Destination": "B",
+        "Cost": 1,
+        "NextHop": "B"
+      },
+      {
+        "Destination": "D",
+        "Cost": 2,
+        "NextHop": "D"
+      },
+      {
+        "Destination": "G",
+        "Cost": 7,
+        "NextHop": "G"
+      }
+    ]
+  },
+  {
+    "Name": "D",
+    "Routes": [
+      {
+        "Destination": "C",
+        "Cost": 2,
+        "NextHop": "C"
+      },
+      {
+        "Destination": "A",
+        "Cost": 1,
+        "NextHop": "A"
+      },
+      {
+        "Destination": "E",
+        "Cost": 3,
+        "NextHop": "E"
+      },
+      {
+        "Destination": "(RO)",
+        "Cost": 10,
+        "NextHop": "(RO)"
+      },
+      {
+        "Destination": "R",
+        "Cost": 16,
+        "NextHop": "R"
+      }
+    ]
+  },
+  {
+    "Name": "E",
+    "Routes": [
+      {
+        "Destination": "D",
+        "Cost": 3,
+        "NextHop": "D"
+      },
+      {
+        "Destination": "F",
+        "Cost": 2,
+        "NextHop": "F"
+      },
+      {
+        "Destination": "H",
+        "Cost": 3,
+        "NextHop": "H"
+      },
+      {
+        "Destination": "Q",
+        "Cost": 11,
+        "NextHop": "Q"
+      }
+    ]
+  },
+  {
+    "Name": "F",
+    "Routes": [
+      {
+        "Destination": "E",
+        "Cost": 2,
+        "NextHop": "E"
+      },
+      {
+        "Destination": "G",
+        "Cost": 1,
+        "NextHop": "G"
+      },
+      {
+        "Destination": "H",
+        "Cost": 5,
+        "NextHop": "H"
+      }
+    ]
+  },
+  {
+    "Name": "G",
+    "Routes": [
+      {
+        "Destination": "B",
+        "Cost": 5,
+        "NextHop": "B"
+      },
+      {
+        "Destination": "C",
+        "Cost": 7,
+        "NextHop": "C"
+      },
+      {
+        "Destination": "F",
+        "Cost": 1,
+        "NextHop": "F"
+      },
+      {
+        "Destination": "(RO)",
+        "Cost": 2,
+        "NextHop": "(RO)"
+      }
+    ]
+  },
+  {
+    "Name": "H",
+    "Routes": [
+      {
+        "Destination": "E",
+        "Cost": 3,
+        "NextHop": "E"
+      },
+      {
+        "Destination": "F",
+        "Cost": 5,
+        "NextHop": "F"
+      },
+      {
+        "Destination": "(RO)",
+        "Cost": 7,
+        "NextHop": "(RO)"
+      },
+      {
+        "Destination": "I",
+        "Cost": 9,
+        "NextHop": "I"
+      }
+    ]
+  },
+  {
+    "Name": "I",
+    "Routes": [
+      {
+        "Destination": "H",
+        "Cost": 9,
+        "NextHop": "H"
+      },
+      {
+        "Destination": "J",
+        "Cost": 2,
+        "NextHop": "J"
+      },
+      {
+        "Destination": "Q",
+        "Cost": 7,
+        "NextHop": "Q"
+      }
+    ]
+  },
+  {
+    "Name": "J",
+    "Routes": [
+      {
+        "Destination": "I",
+        "Cost": 2,
+        "NextHop": "I"
+      },
+      {
+        "Destination": "(RO)",
+        "Cost": 6,
+        "NextHop": "(RO)"
+      },
+      {
+        "Destination": "Q",
+        "Cost": 3,
+        "NextHop": "Q"
+      },
+      {
+        "Destination": "K",
+        "Cost": 3,
+        "NextHop": "K"
+      }
+    ]
+  },
+  {
+    "Name": "K",
+    "Routes": [
+      {
+        "Destination": "L",
+        "Cost": 1,
+        "NextHop": "L"
+      },
+      {
+        "Destination": "J",
+        "Cost": 3,
+        "NextHop": "J"
+      },
+      {
+        "Destination": "N",
+        "Cost": 6,
+        "NextHop": "N"
+      },
+      {
+        "Destination": "P",
+        "Cost": 2,
+        "NextHop": "P"
+      }
+    ]
+  },
+  {
+    "Name": "L",
+    "Routes": [
+      {
+        "Destination": "(RO)",
+        "Cost": 3,
+        "NextHop": "(RO)"
+      },
+      {
+        "Destination": "K",
+        "Cost": 1,
+        "NextHop": "K"
+      },
+      {
+        "Destination": "M",
+        "Cost": 7,
+        "NextHop": "M"
+      },
+      {
+        "Destination": "(EPSILON)",
+        "Cost": 100,
+        "NextHop": "(EPSILON)"
+      }
+    ]
+  },
+  {
+    "Name": "M",
+    "Routes": [
+      {
+        "Destination": "L",
+        "Cost": 7,
+        "NextHop": "L"
+      },
+      {
+        "Destination": "N",
+        "Cost": 1,
+        "NextHop": "N"
+      },
+      {
+        "Destination": "W",
+        "Cost": 8,
+        "NextHop": "W"
+      }
+    ]
+  },
+  {
+    "Name": "N",
+    "Routes": [
+      {
+        "Destination": "M",
+        "Cost": 1,
+        "NextHop": "M"
+      },
+      {
+        "Destination": "K",
+        "Cost": 6,
+        "NextHop": "K"
+      },
+      {
+        "Destination": "O",
+        "Cost": 1,
+        "NextHop": "O"
+      },
+      {
+        "Destination": "V",
+        "Cost": 9,
+        "NextHop": "V"
+      }
+    ]
+  },
+  {
+    "Name": "O",
+    "Routes": [
+      {
+        "Destination": "N",
+        "Cost": 1,
+        "NextHop": "N"
+      },
+      {
+        "Destination": "U",
+        "Cost": 8,
+        "NextHop": "U"
+      },
+      {
+        "Destination": "P",
+        "Cost": 3,
+        "NextHop": "P"
+      }
+    ]
+  },
+  {
+    "Name": "P",
+    "Routes": [
+      {
+        "Destination": "Q",
+        "Cost": 2,
+        "NextHop": "Q"
+      },
+      {
+        "Destination": "K",
+        "Cost": 2,
+        "NextHop": "K"
+      },
+      {
+        "Destination": "O",
+        "Cost": 3,
+        "NextHop": "O"
+      },
+      {
+        "Destination": "T",
+        "Cost": 4,
+        "NextHop": "T"
+      },
+      {
+        "Destination": "S",
+        "Cost": 5,
+        "NextHop": "S"
+      },
+      {
+        "Destination": "R",
+        "Cost": 1,
+        "NextHop": "R"
+      }
+    ]
+  },
+  {
+    "Name": "Q",
+    "Routes": [
+      {
+        "Destination": "J",
+        "Cost": 3,
+        "NextHop": "J"
+      },
+      {
+        "Destination": "I",
+        "Cost": 7,
+        "NextHop": "I"
+      },
+      {
+        "Destination": "E",
+        "Cost": 11,
+        "NextHop": "E"
+      },
+      {
+        "Destination": "R",
+        "Cost": 4,
+        "NextHop": "R"
+      },
+      {
+        "Destination": "P",
+        "Cost": 2,
+        "NextHop": "P"
+      }
+    ]
+  },
+  {
+    "Name": "R",
+    "Routes": [
+      {
+        "Destination": "D",
+        "Cost": 16,
+        "NextHop": "D"
+      },
+      {
+        "Destination": "Q",
+        "Cost": 4,
+        "NextHop": "Q"
+      },
+      {
+        "Destination": "P",
+        "Cost": 1,
+        "NextHop": "P"
+      },
+      {
+        "Destination": "S",
+        "Cost": 11,
+        "NextHop": "S"
+      },
+      {
+        "Destination": "(EPSILON)",
+        "Cost": 49,
+        "NextHop": "(EPSILON)"
+      }
+    ]
+  },
+  {
+    "Name": "S",
+    "Routes": [
+      {
+        "Destination": "R",
+        "Cost": 11,
+        "NextHop": "R"
+      },
+      {
+        "Destination": "P",
+        "Cost": 5,
+        "NextHop": "P"
+      },
+      {
+        "Destination": "Z",
+        "Cost": 6,
+        "NextHop": "Z"
+      },
+      {
+        "Destination": "(FI)",
+        "Cost": 1,
+        "NextHop": "(FI)"
+      }
+    ]
+  },
+  {
+    "Name": "T",
+    "Routes": [
+      {
+        "Destination": "P",
+        "Cost": 4,
+        "NextHop": "P"
+      },
+      {
+        "Destination": "(FI)",
+        "Cost": 1,
+        "NextHop": "(FI)"
+      },
+      {
+        "Destination": "U",
+        "Cost": 2,
+        "NextHop": "U"
+      }
+    ]
+  },
+  {
+    "Name": "U",
+    "Routes": [
+      {
+        "Destination": "T",
+        "Cost": 2,
+        "NextHop": "T"
+      },
+      {
+        "Destination": "O",
+        "Cost": 8,
+        "NextHop": "O"
+      },
+      {
+        "Destination": "V",
+        "Cost": 1,
+        "NextHop": "V"
+      },
+      {
+        "Destination": "W",
+        "Cost": 1,
+        "NextHop": "W"
+      },
+      {
+        "Destination": "X",
+        "Cost": 1,
+        "NextHop": "X"
+      }
+    ]
+  },
+  {
+    "Name": "V",
+    "Routes": [
+      {
+        "Destination": "N",
+        "Cost": 9,
+        "NextHop": "N"
+      },
+      {
+        "Destination": "U",
+        "Cost": 1,
+        "NextHop": "U"
+      },
+      {
+        "Destination": "W",
+        "Cost": 2,
+        "NextHop": "W"
+      }
+    ]
+  },
+  {
+    "Name": "W",
+    "Routes": [
+      {
+        "Destination": "M",
+        "Cost": 8,
+        "NextHop": "M"
+      },
+      {
+        "Destination": "V",
+        "Cost": 2,
+        "NextHop": "V"
+      },
+      {
+        "Destination": "U",
+        "Cost": 1,
+        "NextHop": "U"
+      },
+      {
+        "Destination": "(GAMA)",
+        "Cost": 3,
+        "NextHop": "(GAMA)"
+      },
+      {
+        "Destination": "(EPSILON)",
+        "Cost": 19,
+        "NextHop": "(EPSILON)"
+      }
+    ]
+  },
+  {
+    "Name": "X",
+    "Routes": [
+      {
+        "Destination": "U",
+        "Cost": 1,
+        "NextHop": "U"
+      },
+      {
+        "Destination": "Y",
+        "Cost": 5,
+        "NextHop": "Y"
+      },
+      {
+        "Destination": "(GAMA)",
+        "Cost": 2,
+        "NextHop": "(GAMA)"
+      }
+    ]
+  },
+  {
+    "Name": "Y",
+    "Routes": [
+      {
+        "Destination": "X",
+        "Cost": 5,
+        "NextHop": "X"
+      },
+      {
+        "Destination": "(FI)",
+        "Cost": 7,
+        "NextHop": "(FI)"
+      },
+      {
+        "Destination": "(ALPHA)",
+        "Cost": 3,
+        "NextHop": "(ALPHA)"
+      }
+    ]
+  },
+  {
+    "Name": "Z",
+    "Routes": [
+      {
+        "Destination": "(FI)",
+        "Cost": 2,
+        "NextHop": "(FI)"
+      },
+      {
+        "Destination": "S",
+        "Cost": 6,
+        "NextHop": "S"
+      },
+      {
+        "Destination": "(DELTA)",
+        "Cost": 7,
+        "NextHop": "(DELTA)"
+      }
+    ]
+  },
+  {
+    "Name": "(ALPHA)",
+    "Routes": [
+      {
+        "Destination": "Y",
+        "Cost": 3,
+        "NextHop": "Y"
+      },
+      {
+        "Destination": "(BETA)",
+        "Cost": 2,
+        "NextHop": "(BETA)"
+      },
+      {
+        "Destination": "(DELTA)",
+        "Cost": 5,
+        "NextHop": "(DELTA)"
+      }
+    ]
+  },
+  {
+    "Name": "(BETA)",
+    "Routes": [
+      {
+        "Destination": "(ALPHA)",
+        "Cost": 2,
+        "NextHop": "(ALPHA)"
+      },
+      {
+        "Destination": "(DELTA)",
+        "Cost": 1,
+        "NextHop": "(DELTA)"
+      },
+      {
+        "Destination": "(GAMA)",
+        "Cost": 6,
+        "NextHop": "(GAMA)"
+      },
+      {
+        "Destination": "(EPSILON)",
+        "Cost": 3,
+        "NextHop": "(EPSILON)"
+      }
+    ]
+  },
+  {
+    "Name": "(GAMA)",
+    "Routes": [
+      {
+        "Destination": "X",
+        "Cost": 2,
+        "NextHop": "X"
+      },
+      {
+        "Destination": "W",
+        "Cost": 3,
+        "NextHop": "W"
+      },
+      {
+        "Destination": "(BETA)",
+        "Cost": 6,
+        "NextHop": "(BETA)"
+      }
+    ]
+  },
+  {
+    "Name": "(DELTA)",
+    "Routes": [
+      {
+        "Destination": "(ALPHA)",
+        "Cost": 5,
+        "NextHop": "(ALPHA)"
+      },
+      {
+        "Destination": "(BETA)",
+        "Cost": 1,
+        "NextHop": "(BETA)"
+      },
+      {
+        "Destination": "Z",
+        "Cost": 7,
+        "NextHop": "Z"
+      }
+    ]
+  },
+  {
+    "Name": "(EPSILON)",
+    "Routes": [
+      {
+        "Destination": "W",
+        "Cost": 19,
+        "NextHop": "W"
+      },
+      {
+        "Destination": "(BETA)",
+        "Cost": 3,
+        "NextHop": "(BETA)"
+      },
+      {
+        "Destination": "L",
+        "Cost": 100,
+        "NextHop": "L"
+      },
+      {
+        "Destination": "R",
+        "Cost": 49,
+        "NextHop": "R"
+      }
+    ]
+  },
+  {
+    "Name": "(FI)",
+    "Routes": [
+      {
+        "Destination": "T",
+        "Cost": 1,
+        "NextHop": "T"
+      },
+      {
+        "Destination": "S",
+        "Cost": 1,
+        "NextHop": "S"
+      },
+      {
+        "Destination": "Z",
+        "Cost": 2,
+        "NextHop": "Z"
+      },
+      {
+        "Destination": "Y",
+        "Cost": 7,
+        "NextHop": "Y"
+      }
+    ]
+  },
+  {
+    "Name": "(RO)",
+    "Routes": [
+      {
+        "Destination": "A",
+        "Cost": 3,
+        "NextHop": "A"
+      },
+      {
+        "Destination": "G",
+        "Cost": 2,
+        "NextHop": "G"
+      },
+      {
+        "Destination": "H",
+        "Cost": 7,
+        "NextHop": "H"
+      },
+      {
+        "Destination": "J",
+        "Cost": 6,
+        "NextHop": "J"
+      },
+      {
+        "Destination": "L",
+        "Cost": 3,
+        "NextHop": "L"
+      },
+      {
+        "Destination": "D",
+        "Cost": 10,
+        "NextHop": "D"
+      }
+    ]
+  }
+]
