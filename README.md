@@ -9,5 +9,5 @@
 	2.2) Zadejte jméno nodu, který chete zobrazit na konzoli
 	2.3) Všechny ostatní se jen uloží do souboru (! Předchozí soubor output.json bude přepsán !)
 
-// (V souboru input.json je již předem vytvořená síť dle schématu, a v souboru output.json spočítané výsledné routovací tabulky)
-// Jan Černý, 2.B, 2018
+(V souboru input.json je již předem vytvořená síť dle schématu, a v souboru output.json spočítané výsledné routovací tabulky)
+Jan Černý, 2.B, 2018
