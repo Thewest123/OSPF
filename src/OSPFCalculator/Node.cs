@@ -109,11 +109,5 @@ namespace OSPFCalculator
                 SaveNewInfo();
             }
         }
-
-        public bool DoContinue()
-        {
-            if (Routes.Exists(r => r.IsChanged && r.IsNew)) return true;
-            else return false;
-        }
     }
 }
