@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Security.Cryptography.X509Certificates;
 using System.Threading;
 using Newtonsoft.Json;
@@ -61,11 +62,14 @@ namespace OSPFCalculator
 
             //Vypis vypocitanych stage
             int stage = 0;
-            while (nodes[0].Routes.Count != nodes.Count - 1)
+            bool pokracovat = true;
+            while (pokracovat)
             {
                 Console.WriteLine($"------------- [Stage {++stage:##}] -------------");
                 Debug.WriteLine($"------------- [Stage {stage:##}] -------------");
 
+                pokracovat = false;
+                bool kontrolovat = true;
                 foreach (var n in nodes)
                 {
                     foreach (var neigh in n.Neighbors)
@@ -73,15 +77,24 @@ namespace OSPFCalculator
                         n.GetRoutesFrom(neigh);
                     }
 
-                    //Vypis pouze nodu, ktery si zvolil uzivatel
-                    if (n == nodeToShow)
+                    //Kontrola, zda ma jakykoliv node routu, ktera je nova nebo zmenena. Pokud ne, je vse spocitano a program lze ukoncit
+                    bool Match(Route r) => r.IsChanged || r.IsNew;
+                    if (n.Routes.Exists(Match) && kontrolovat)
                     {
-                        foreach (var r in n.Routes)
+                        pokracovat = true;
+                        kontrolovat = false;
+                    }
+
+                    foreach (var r in n.Routes)
+                    {
+                        //Vypis pouze nodu, ktery si zvolil uzivatel
+                        if (n == nodeToShow)
                         {
                             Console.WriteLine($"{r.Destination,10} | {r.Cost,3} | {r.NextHop,-10} {(r.IsNew ? "(nová)" : "")}{(r.IsChanged ? "(změněná)" : "")}");
-                            r.IsChanged = false;
-                            r.IsNew = false;
                         }
+
+                        r.IsChanged = false;
+                        r.IsNew = false;
                     }
                 }
             }

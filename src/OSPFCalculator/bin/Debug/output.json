@@ -103,21 +103,6 @@
         "NextHop": "(RO)"
       },
       {
-        "Destination": "W",
-        "Cost": 21,
-        "NextHop": "(RO)"
-      },
-      {
-        "Destination": "V",
-        "Cost": 21,
-        "NextHop": "(RO)"
-      },
-      {
-        "Destination": "X",
-        "Cost": 21,
-        "NextHop": "(RO)"
-      },
-      {
         "Destination": "(FI)",
         "Cost": 14,
         "NextHop": "(RO)"
@@ -129,37 +114,52 @@
       },
       {
         "Destination": "Z",
-        "Cost": 20,
-        "NextHop": "(RO)"
-      },
-      {
-        "Destination": "(GAMA)",
-        "Cost": 24,
-        "NextHop": "(RO)"
-      },
-      {
-        "Destination": "(EPSILON)",
-        "Cost": 40,
-        "NextHop": "(RO)"
-      },
-      {
-        "Destination": "(BETA)",
-        "Cost": 43,
-        "NextHop": "(RO)"
-      },
-      {
-        "Destination": "(ALPHA)",
-        "Cost": 45,
-        "NextHop": "(RO)"
-      },
-      {
-        "Destination": "(DELTA)",
-        "Cost": 44,
+        "Cost": 16,
         "NextHop": "(RO)"
       },
       {
         "Destination": "Y",
-        "Cost": 48,
+        "Cost": 21,
+        "NextHop": "(RO)"
+      },
+      {
+        "Destination": "V",
+        "Cost": 16,
+        "NextHop": "(RO)"
+      },
+      {
+        "Destination": "W",
+        "Cost": 16,
+        "NextHop": "(RO)"
+      },
+      {
+        "Destination": "X",
+        "Cost": 16,
+        "NextHop": "(RO)"
+      },
+      {
+        "Destination": "(DELTA)",
+        "Cost": 23,
+        "NextHop": "(RO)"
+      },
+      {
+        "Destination": "(BETA)",
+        "Cost": 24,
+        "NextHop": "(RO)"
+      },
+      {
+        "Destination": "(ALPHA)",
+        "Cost": 24,
+        "NextHop": "(RO)"
+      },
+      {
+        "Destination": "(GAMA)",
+        "Cost": 18,
+        "NextHop": "(RO)"
+      },
+      {
+        "Destination": "(EPSILON)",
+        "Cost": 27,
         "NextHop": "(RO)"
       }
     ]
@@ -268,21 +268,6 @@
         "NextHop": "A"
       },
       {
-        "Destination": "W",
-        "Cost": 23,
-        "NextHop": "A"
-      },
-      {
-        "Destination": "V",
-        "Cost": 23,
-        "NextHop": "A"
-      },
-      {
-        "Destination": "X",
-        "Cost": 23,
-        "NextHop": "A"
-      },
-      {
         "Destination": "(FI)",
         "Cost": 16,
         "NextHop": "A"
@@ -294,37 +279,52 @@
       },
       {
         "Destination": "Z",
-        "Cost": 22,
-        "NextHop": "A"
-      },
-      {
-        "Destination": "(GAMA)",
-        "Cost": 26,
-        "NextHop": "A"
-      },
-      {
-        "Destination": "(EPSILON)",
-        "Cost": 42,
-        "NextHop": "A"
-      },
-      {
-        "Destination": "(BETA)",
-        "Cost": 45,
-        "NextHop": "A"
-      },
-      {
-        "Destination": "(ALPHA)",
-        "Cost": 47,
-        "NextHop": "A"
-      },
-      {
-        "Destination": "(DELTA)",
-        "Cost": 46,
+        "Cost": 18,
         "NextHop": "A"
       },
       {
         "Destination": "Y",
-        "Cost": 50,
+        "Cost": 23,
+        "NextHop": "A"
+      },
+      {
+        "Destination": "V",
+        "Cost": 18,
+        "NextHop": "A"
+      },
+      {
+        "Destination": "W",
+        "Cost": 18,
+        "NextHop": "A"
+      },
+      {
+        "Destination": "X",
+        "Cost": 18,
+        "NextHop": "A"
+      },
+      {
+        "Destination": "(DELTA)",
+        "Cost": 25,
+        "NextHop": "A"
+      },
+      {
+        "Destination": "(BETA)",
+        "Cost": 26,
+        "NextHop": "A"
+      },
+      {
+        "Destination": "(ALPHA)",
+        "Cost": 26,
+        "NextHop": "A"
+      },
+      {
+        "Destination": "(GAMA)",
+        "Cost": 20,
+        "NextHop": "A"
+      },
+      {
+        "Destination": "(EPSILON)",
+        "Cost": 29,
         "NextHop": "A"
       }
     ]
@@ -428,24 +428,9 @@
         "NextHop": "B"
       },
       {
-        "Destination": "W",
-        "Cost": 24,
-        "NextHop": "B"
-      },
-      {
         "Destination": "H",
         "Cost": 8,
         "NextHop": "D"
-      },
-      {
-        "Destination": "V",
-        "Cost": 24,
-        "NextHop": "B"
-      },
-      {
-        "Destination": "X",
-        "Cost": 24,
-        "NextHop": "B"
       },
       {
         "Destination": "(FI)",
@@ -459,37 +444,52 @@
       },
       {
         "Destination": "Z",
-        "Cost": 23,
-        "NextHop": "B"
-      },
-      {
-        "Destination": "(GAMA)",
-        "Cost": 27,
-        "NextHop": "B"
-      },
-      {
-        "Destination": "(EPSILON)",
-        "Cost": 43,
-        "NextHop": "B"
-      },
-      {
-        "Destination": "(BETA)",
-        "Cost": 46,
-        "NextHop": "B"
-      },
-      {
-        "Destination": "(ALPHA)",
-        "Cost": 48,
-        "NextHop": "B"
-      },
-      {
-        "Destination": "(DELTA)",
-        "Cost": 47,
+        "Cost": 19,
         "NextHop": "B"
       },
       {
         "Destination": "Y",
-        "Cost": 51,
+        "Cost": 24,
+        "NextHop": "B"
+      },
+      {
+        "Destination": "V",
+        "Cost": 19,
+        "NextHop": "B"
+      },
+      {
+        "Destination": "W",
+        "Cost": 19,
+        "NextHop": "B"
+      },
+      {
+        "Destination": "X",
+        "Cost": 19,
+        "NextHop": "B"
+      },
+      {
+        "Destination": "(DELTA)",
+        "Cost": 26,
+        "NextHop": "B"
+      },
+      {
+        "Destination": "(BETA)",
+        "Cost": 27,
+        "NextHop": "B"
+      },
+      {
+        "Destination": "(ALPHA)",
+        "Cost": 27,
+        "NextHop": "B"
+      },
+      {
+        "Destination": "(GAMA)",
+        "Cost": 21,
+        "NextHop": "B"
+      },
+      {
+        "Destination": "(EPSILON)",
+        "Cost": 30,
         "NextHop": "B"
       }
     ]
@@ -608,54 +608,54 @@
         "NextHop": "A"
       },
       {
-        "Destination": "(GAMA)",
-        "Cost": 25,
+        "Destination": "Z",
+        "Cost": 17,
         "NextHop": "A"
       },
       {
-        "Destination": "(EPSILON)",
-        "Cost": 41,
+        "Destination": "Y",
+        "Cost": 22,
         "NextHop": "A"
       },
       {
-        "Destination": "(ALPHA)",
-        "Cost": 46,
+        "Destination": "V",
+        "Cost": 17,
+        "NextHop": "A"
+      },
+      {
+        "Destination": "W",
+        "Cost": 17,
+        "NextHop": "A"
+      },
+      {
+        "Destination": "X",
+        "Cost": 17,
+        "NextHop": "A"
+      },
+      {
+        "Destination": "(DELTA)",
+        "Cost": 24,
         "NextHop": "A"
       },
       {
         "Destination": "(BETA)",
-        "Cost": 34,
-        "NextHop": "R"
+        "Cost": 25,
+        "NextHop": "A"
       },
       {
-        "Destination": "Z",
+        "Destination": "(ALPHA)",
+        "Cost": 25,
+        "NextHop": "A"
+      },
+      {
+        "Destination": "(GAMA)",
         "Cost": 19,
-        "NextHop": "R"
+        "NextHop": "A"
       },
       {
-        "Destination": "Y",
-        "Cost": 24,
-        "NextHop": "R"
-      },
-      {
-        "Destination": "V",
-        "Cost": 19,
-        "NextHop": "R"
-      },
-      {
-        "Destination": "W",
-        "Cost": 19,
-        "NextHop": "R"
-      },
-      {
-        "Destination": "X",
-        "Cost": 19,
-        "NextHop": "R"
-      },
-      {
-        "Destination": "(DELTA)",
-        "Cost": 30,
-        "NextHop": "R"
+        "Destination": "(EPSILON)",
+        "Cost": 28,
+        "NextHop": "A"
       }
     ]
   },
@@ -708,69 +708,9 @@
         "NextHop": "H"
       },
       {
-        "Destination": "P",
-        "Cost": 13,
-        "NextHop": "Q"
-      },
-      {
-        "Destination": "K",
-        "Cost": 11,
-        "NextHop": "D"
-      },
-      {
-        "Destination": "M",
-        "Cost": 17,
-        "NextHop": "D"
-      },
-      {
-        "Destination": "N",
-        "Cost": 17,
-        "NextHop": "D"
-      },
-      {
-        "Destination": "O",
-        "Cost": 16,
-        "NextHop": "D"
-      },
-      {
-        "Destination": "T",
-        "Cost": 17,
-        "NextHop": "D"
-      },
-      {
-        "Destination": "S",
-        "Cost": 18,
-        "NextHop": "D"
-      },
-      {
-        "Destination": "R",
-        "Cost": 14,
-        "NextHop": "D"
-      },
-      {
         "Destination": "(RO)",
         "Cost": 5,
         "NextHop": "F"
-      },
-      {
-        "Destination": "(FI)",
-        "Cost": 18,
-        "NextHop": "Q"
-      },
-      {
-        "Destination": "U",
-        "Cost": 19,
-        "NextHop": "Q"
-      },
-      {
-        "Destination": "(EPSILON)",
-        "Cost": 44,
-        "NextHop": "D"
-      },
-      {
-        "Destination": "(ALPHA)",
-        "Cost": 49,
-        "NextHop": "D"
       },
       {
         "Destination": "J",
@@ -783,44 +723,104 @@
         "NextHop": "F"
       },
       {
-        "Destination": "(BETA)",
-        "Cost": 35,
-        "NextHop": "Q"
+        "Destination": "K",
+        "Cost": 9,
+        "NextHop": "F"
       },
       {
-        "Destination": "(GAMA)",
-        "Cost": 27,
-        "NextHop": "Q"
+        "Destination": "M",
+        "Cost": 15,
+        "NextHop": "F"
+      },
+      {
+        "Destination": "N",
+        "Cost": 15,
+        "NextHop": "F"
+      },
+      {
+        "Destination": "P",
+        "Cost": 11,
+        "NextHop": "F"
+      },
+      {
+        "Destination": "O",
+        "Cost": 14,
+        "NextHop": "F"
+      },
+      {
+        "Destination": "T",
+        "Cost": 15,
+        "NextHop": "F"
+      },
+      {
+        "Destination": "S",
+        "Cost": 16,
+        "NextHop": "F"
+      },
+      {
+        "Destination": "R",
+        "Cost": 12,
+        "NextHop": "F"
+      },
+      {
+        "Destination": "(FI)",
+        "Cost": 16,
+        "NextHop": "F"
+      },
+      {
+        "Destination": "U",
+        "Cost": 17,
+        "NextHop": "F"
       },
       {
         "Destination": "Z",
-        "Cost": 20,
-        "NextHop": "Q"
+        "Cost": 18,
+        "NextHop": "F"
       },
       {
         "Destination": "Y",
-        "Cost": 25,
-        "NextHop": "Q"
+        "Cost": 23,
+        "NextHop": "F"
       },
       {
         "Destination": "V",
-        "Cost": 20,
-        "NextHop": "Q"
+        "Cost": 18,
+        "NextHop": "F"
       },
       {
         "Destination": "W",
-        "Cost": 20,
-        "NextHop": "Q"
+        "Cost": 18,
+        "NextHop": "F"
       },
       {
         "Destination": "X",
-        "Cost": 20,
-        "NextHop": "Q"
+        "Cost": 18,
+        "NextHop": "F"
       },
       {
         "Destination": "(DELTA)",
-        "Cost": 31,
-        "NextHop": "Q"
+        "Cost": 25,
+        "NextHop": "F"
+      },
+      {
+        "Destination": "(BETA)",
+        "Cost": 26,
+        "NextHop": "F"
+      },
+      {
+        "Destination": "(ALPHA)",
+        "Cost": 26,
+        "NextHop": "F"
+      },
+      {
+        "Destination": "(GAMA)",
+        "Cost": 20,
+        "NextHop": "F"
+      },
+      {
+        "Destination": "(EPSILON)",
+        "Cost": 29,
+        "NextHop": "F"
       }
     ]
   },
@@ -868,16 +868,6 @@
         "NextHop": "G"
       },
       {
-        "Destination": "(FI)",
-        "Cost": 20,
-        "NextHop": "E"
-      },
-      {
-        "Destination": "U",
-        "Cost": 21,
-        "NextHop": "E"
-      },
-      {
         "Destination": "J",
         "Cost": 9,
         "NextHop": "G"
@@ -886,51 +876,6 @@
         "Destination": "L",
         "Cost": 6,
         "NextHop": "G"
-      },
-      {
-        "Destination": "(EPSILON)",
-        "Cost": 46,
-        "NextHop": "E"
-      },
-      {
-        "Destination": "(ALPHA)",
-        "Cost": 51,
-        "NextHop": "E"
-      },
-      {
-        "Destination": "(BETA)",
-        "Cost": 37,
-        "NextHop": "E"
-      },
-      {
-        "Destination": "(GAMA)",
-        "Cost": 29,
-        "NextHop": "E"
-      },
-      {
-        "Destination": "Z",
-        "Cost": 22,
-        "NextHop": "E"
-      },
-      {
-        "Destination": "Y",
-        "Cost": 27,
-        "NextHop": "E"
-      },
-      {
-        "Destination": "V",
-        "Cost": 22,
-        "NextHop": "E"
-      },
-      {
-        "Destination": "X",
-        "Cost": 22,
-        "NextHop": "E"
-      },
-      {
-        "Destination": "(DELTA)",
-        "Cost": 33,
-        "NextHop": "E"
       },
       {
         "Destination": "I",
@@ -983,8 +928,63 @@
         "NextHop": "G"
       },
       {
-        "Destination": "W",
+        "Destination": "(FI)",
+        "Cost": 14,
+        "NextHop": "G"
+      },
+      {
+        "Destination": "U",
+        "Cost": 15,
+        "NextHop": "G"
+      },
+      {
+        "Destination": "Z",
+        "Cost": 16,
+        "NextHop": "G"
+      },
+      {
+        "Destination": "Y",
         "Cost": 21,
+        "NextHop": "G"
+      },
+      {
+        "Destination": "V",
+        "Cost": 16,
+        "NextHop": "G"
+      },
+      {
+        "Destination": "W",
+        "Cost": 16,
+        "NextHop": "G"
+      },
+      {
+        "Destination": "X",
+        "Cost": 16,
+        "NextHop": "G"
+      },
+      {
+        "Destination": "(DELTA)",
+        "Cost": 23,
+        "NextHop": "G"
+      },
+      {
+        "Destination": "(BETA)",
+        "Cost": 24,
+        "NextHop": "G"
+      },
+      {
+        "Destination": "(ALPHA)",
+        "Cost": 24,
+        "NextHop": "G"
+      },
+      {
+        "Destination": "(GAMA)",
+        "Cost": 18,
+        "NextHop": "G"
+      },
+      {
+        "Destination": "(EPSILON)",
+        "Cost": 27,
         "NextHop": "G"
       }
     ]
@@ -1093,36 +1093,6 @@
         "NextHop": "(RO)"
       },
       {
-        "Destination": "W",
-        "Cost": 20,
-        "NextHop": "(RO)"
-      },
-      {
-        "Destination": "(BETA)",
-        "Cost": 38,
-        "NextHop": "F"
-      },
-      {
-        "Destination": "Y",
-        "Cost": 28,
-        "NextHop": "F"
-      },
-      {
-        "Destination": "(DELTA)",
-        "Cost": 34,
-        "NextHop": "F"
-      },
-      {
-        "Destination": "V",
-        "Cost": 20,
-        "NextHop": "(RO)"
-      },
-      {
-        "Destination": "X",
-        "Cost": 20,
-        "NextHop": "(RO)"
-      },
-      {
         "Destination": "(FI)",
         "Cost": 13,
         "NextHop": "(RO)"
@@ -1134,22 +1104,52 @@
       },
       {
         "Destination": "Z",
-        "Cost": 19,
+        "Cost": 15,
         "NextHop": "(RO)"
       },
       {
-        "Destination": "(GAMA)",
+        "Destination": "Y",
+        "Cost": 20,
+        "NextHop": "(RO)"
+      },
+      {
+        "Destination": "V",
+        "Cost": 15,
+        "NextHop": "(RO)"
+      },
+      {
+        "Destination": "W",
+        "Cost": 15,
+        "NextHop": "(RO)"
+      },
+      {
+        "Destination": "X",
+        "Cost": 15,
+        "NextHop": "(RO)"
+      },
+      {
+        "Destination": "(DELTA)",
+        "Cost": 22,
+        "NextHop": "(RO)"
+      },
+      {
+        "Destination": "(BETA)",
         "Cost": 23,
         "NextHop": "(RO)"
       },
       {
-        "Destination": "(EPSILON)",
-        "Cost": 39,
+        "Destination": "(ALPHA)",
+        "Cost": 23,
         "NextHop": "(RO)"
       },
       {
-        "Destination": "(ALPHA)",
-        "Cost": 44,
+        "Destination": "(GAMA)",
+        "Cost": 17,
+        "NextHop": "(RO)"
+      },
+      {
+        "Destination": "(EPSILON)",
+        "Cost": 26,
         "NextHop": "(RO)"
       }
     ]
@@ -1258,41 +1258,6 @@
         "NextHop": "(RO)"
       },
       {
-        "Destination": "(BETA)",
-        "Cost": 38,
-        "NextHop": "E"
-      },
-      {
-        "Destination": "Z",
-        "Cost": 23,
-        "NextHop": "E"
-      },
-      {
-        "Destination": "Y",
-        "Cost": 28,
-        "NextHop": "E"
-      },
-      {
-        "Destination": "V",
-        "Cost": 23,
-        "NextHop": "E"
-      },
-      {
-        "Destination": "W",
-        "Cost": 23,
-        "NextHop": "E"
-      },
-      {
-        "Destination": "X",
-        "Cost": 23,
-        "NextHop": "E"
-      },
-      {
-        "Destination": "(DELTA)",
-        "Cost": 34,
-        "NextHop": "E"
-      },
-      {
         "Destination": "(FI)",
         "Cost": 18,
         "NextHop": "(RO)"
@@ -1303,18 +1268,53 @@
         "NextHop": "(RO)"
       },
       {
-        "Destination": "(GAMA)",
+        "Destination": "Z",
+        "Cost": 20,
+        "NextHop": "(RO)"
+      },
+      {
+        "Destination": "Y",
+        "Cost": 25,
+        "NextHop": "(RO)"
+      },
+      {
+        "Destination": "V",
+        "Cost": 20,
+        "NextHop": "(RO)"
+      },
+      {
+        "Destination": "W",
+        "Cost": 20,
+        "NextHop": "(RO)"
+      },
+      {
+        "Destination": "X",
+        "Cost": 20,
+        "NextHop": "(RO)"
+      },
+      {
+        "Destination": "(DELTA)",
+        "Cost": 27,
+        "NextHop": "(RO)"
+      },
+      {
+        "Destination": "(BETA)",
         "Cost": 28,
         "NextHop": "(RO)"
       },
       {
-        "Destination": "(EPSILON)",
-        "Cost": 44,
+        "Destination": "(ALPHA)",
+        "Cost": 28,
         "NextHop": "(RO)"
       },
       {
-        "Destination": "(ALPHA)",
-        "Cost": 49,
+        "Destination": "(GAMA)",
+        "Cost": 22,
+        "NextHop": "(RO)"
+      },
+      {
+        "Destination": "(EPSILON)",
+        "Cost": 31,
         "NextHop": "(RO)"
       }
     ]
@@ -1413,11 +1413,6 @@
         "NextHop": "Q"
       },
       {
-        "Destination": "(ALPHA)",
-        "Cost": 58,
-        "NextHop": "H"
-      },
-      {
         "Destination": "B",
         "Cost": 13,
         "NextHop": "J"
@@ -1436,21 +1431,6 @@
         "Destination": "F",
         "Cost": 11,
         "NextHop": "J"
-      },
-      {
-        "Destination": "(BETA)",
-        "Cost": 29,
-        "NextHop": "Q"
-      },
-      {
-        "Destination": "(EPSILON)",
-        "Cost": 38,
-        "NextHop": "Q"
-      },
-      {
-        "Destination": "(GAMA)",
-        "Cost": 21,
-        "NextHop": "Q"
       },
       {
         "Destination": "Z",
@@ -1479,6 +1459,26 @@
       },
       {
         "Destination": "(DELTA)",
+        "Cost": 21,
+        "NextHop": "Q"
+      },
+      {
+        "Destination": "(BETA)",
+        "Cost": 22,
+        "NextHop": "Q"
+      },
+      {
+        "Destination": "(ALPHA)",
+        "Cost": 22,
+        "NextHop": "Q"
+      },
+      {
+        "Destination": "(GAMA)",
+        "Cost": 16,
+        "NextHop": "Q"
+      },
+      {
+        "Destination": "(EPSILON)",
         "Cost": 25,
         "NextHop": "Q"
       }
@@ -1598,26 +1598,6 @@
         "NextHop": "Q"
       },
       {
-        "Destination": "(ALPHA)",
-        "Cost": 48,
-        "NextHop": "(RO)"
-      },
-      {
-        "Destination": "(BETA)",
-        "Cost": 27,
-        "NextHop": "Q"
-      },
-      {
-        "Destination": "(EPSILON)",
-        "Cost": 36,
-        "NextHop": "Q"
-      },
-      {
-        "Destination": "(GAMA)",
-        "Cost": 19,
-        "NextHop": "Q"
-      },
-      {
         "Destination": "Z",
         "Cost": 12,
         "NextHop": "Q"
@@ -1644,6 +1624,26 @@
       },
       {
         "Destination": "(DELTA)",
+        "Cost": 19,
+        "NextHop": "Q"
+      },
+      {
+        "Destination": "(BETA)",
+        "Cost": 20,
+        "NextHop": "Q"
+      },
+      {
+        "Destination": "(ALPHA)",
+        "Cost": 20,
+        "NextHop": "Q"
+      },
+      {
+        "Destination": "(GAMA)",
+        "Cost": 14,
+        "NextHop": "Q"
+      },
+      {
+        "Destination": "(EPSILON)",
         "Cost": 23,
         "NextHop": "Q"
       }
@@ -1763,26 +1763,6 @@
         "NextHop": "L"
       },
       {
-        "Destination": "(ALPHA)",
-        "Cost": 40,
-        "NextHop": "L"
-      },
-      {
-        "Destination": "(BETA)",
-        "Cost": 24,
-        "NextHop": "N"
-      },
-      {
-        "Destination": "(EPSILON)",
-        "Cost": 33,
-        "NextHop": "P"
-      },
-      {
-        "Destination": "(GAMA)",
-        "Cost": 16,
-        "NextHop": "P"
-      },
-      {
         "Destination": "Z",
         "Cost": 9,
         "NextHop": "P"
@@ -1809,6 +1789,26 @@
       },
       {
         "Destination": "(DELTA)",
+        "Cost": 16,
+        "NextHop": "P"
+      },
+      {
+        "Destination": "(BETA)",
+        "Cost": 17,
+        "NextHop": "P"
+      },
+      {
+        "Destination": "(ALPHA)",
+        "Cost": 17,
+        "NextHop": "P"
+      },
+      {
+        "Destination": "(GAMA)",
+        "Cost": 11,
+        "NextHop": "P"
+      },
+      {
+        "Destination": "(EPSILON)",
         "Cost": 20,
         "NextHop": "P"
       }
@@ -1928,21 +1928,6 @@
         "NextHop": "K"
       },
       {
-        "Destination": "(EPSILON)",
-        "Cost": 34,
-        "NextHop": "M"
-      },
-      {
-        "Destination": "(ALPHA)",
-        "Cost": 39,
-        "NextHop": "(EPSILON)"
-      },
-      {
-        "Destination": "(GAMA)",
-        "Cost": 17,
-        "NextHop": "K"
-      },
-      {
         "Destination": "Z",
         "Cost": 10,
         "NextHop": "K"
@@ -1969,13 +1954,28 @@
       },
       {
         "Destination": "(DELTA)",
-        "Cost": 21,
+        "Cost": 17,
         "NextHop": "K"
       },
       {
         "Destination": "(BETA)",
-        "Cost": 24,
-        "NextHop": "M"
+        "Cost": 18,
+        "NextHop": "K"
+      },
+      {
+        "Destination": "(ALPHA)",
+        "Cost": 18,
+        "NextHop": "K"
+      },
+      {
+        "Destination": "(GAMA)",
+        "Cost": 12,
+        "NextHop": "K"
+      },
+      {
+        "Destination": "(EPSILON)",
+        "Cost": 21,
+        "NextHop": "K"
       }
     ]
   },
@@ -2088,16 +2088,6 @@
         "NextHop": "W"
       },
       {
-        "Destination": "(FI)",
-        "Cost": 12,
-        "NextHop": "W"
-      },
-      {
-        "Destination": "Z",
-        "Cost": 14,
-        "NextHop": "W"
-      },
-      {
         "Destination": "Y",
         "Cost": 15,
         "NextHop": "W"
@@ -2141,6 +2131,16 @@
         "Destination": "(EPSILON)",
         "Cost": 20,
         "NextHop": "W"
+      },
+      {
+        "Destination": "(FI)",
+        "Cost": 10,
+        "NextHop": "N"
+      },
+      {
+        "Destination": "Z",
+        "Cost": 12,
+        "NextHop": "N"
       }
     ]
   },
@@ -2253,16 +2253,6 @@
         "NextHop": "O"
       },
       {
-        "Destination": "(ALPHA)",
-        "Cost": 19,
-        "NextHop": "M"
-      },
-      {
-        "Destination": "(DELTA)",
-        "Cost": 19,
-        "NextHop": "M"
-      },
-      {
         "Destination": "(EPSILON)",
         "Cost": 21,
         "NextHop": "M"
@@ -2293,11 +2283,6 @@
         "NextHop": "K"
       },
       {
-        "Destination": "Z",
-        "Cost": 14,
-        "NextHop": "O"
-      },
-      {
         "Destination": "Y",
         "Cost": 15,
         "NextHop": "O"
@@ -2305,6 +2290,21 @@
       {
         "Destination": "(FI)",
         "Cost": 9,
+        "NextHop": "O"
+      },
+      {
+        "Destination": "(ALPHA)",
+        "Cost": 18,
+        "NextHop": "O"
+      },
+      {
+        "Destination": "Z",
+        "Cost": 11,
+        "NextHop": "O"
+      },
+      {
+        "Destination": "(DELTA)",
+        "Cost": 18,
         "NextHop": "O"
       }
     ]
@@ -2388,11 +2388,6 @@
         "NextHop": "P"
       },
       {
-        "Destination": "E",
-        "Cost": 16,
-        "NextHop": "P"
-      },
-      {
         "Destination": "L",
         "Cost": 6,
         "NextHop": "P"
@@ -2411,36 +2406,6 @@
         "Destination": "(FI)",
         "Cost": 8,
         "NextHop": "P"
-      },
-      {
-        "Destination": "(DELTA)",
-        "Cost": 20,
-        "NextHop": "N"
-      },
-      {
-        "Destination": "(EPSILON)",
-        "Cost": 22,
-        "NextHop": "N"
-      },
-      {
-        "Destination": "B",
-        "Cost": 16,
-        "NextHop": "N"
-      },
-      {
-        "Destination": "D",
-        "Cost": 15,
-        "NextHop": "N"
-      },
-      {
-        "Destination": "C",
-        "Cost": 17,
-        "NextHop": "N"
-      },
-      {
-        "Destination": "F",
-        "Cost": 14,
-        "NextHop": "N"
       },
       {
         "Destination": "(ALPHA)",
@@ -2470,6 +2435,41 @@
       {
         "Destination": "Z",
         "Cost": 10,
+        "NextHop": "P"
+      },
+      {
+        "Destination": "(EPSILON)",
+        "Cost": 20,
+        "NextHop": "U"
+      },
+      {
+        "Destination": "B",
+        "Cost": 14,
+        "NextHop": "P"
+      },
+      {
+        "Destination": "D",
+        "Cost": 13,
+        "NextHop": "P"
+      },
+      {
+        "Destination": "C",
+        "Cost": 15,
+        "NextHop": "P"
+      },
+      {
+        "Destination": "F",
+        "Cost": 12,
+        "NextHop": "P"
+      },
+      {
+        "Destination": "E",
+        "Cost": 14,
+        "NextHop": "P"
+      },
+      {
+        "Destination": "(DELTA)",
+        "Cost": 17,
         "NextHop": "P"
       }
     ]
@@ -2613,11 +2613,6 @@
         "NextHop": "K"
       },
       {
-        "Destination": "(EPSILON)",
-        "Cost": 25,
-        "NextHop": "O"
-      },
-      {
         "Destination": "(DELTA)",
         "Cost": 14,
         "NextHop": "T"
@@ -2635,6 +2630,11 @@
       {
         "Destination": "(GAMA)",
         "Cost": 9,
+        "NextHop": "T"
+      },
+      {
+        "Destination": "(EPSILON)",
+        "Cost": 18,
         "NextHop": "T"
       }
     ]
@@ -2778,11 +2778,6 @@
         "NextHop": "P"
       },
       {
-        "Destination": "(EPSILON)",
-        "Cost": 27,
-        "NextHop": "P"
-      },
-      {
         "Destination": "(DELTA)",
         "Cost": 16,
         "NextHop": "P"
@@ -2800,6 +2795,11 @@
       {
         "Destination": "(GAMA)",
         "Cost": 11,
+        "NextHop": "P"
+      },
+      {
+        "Destination": "(EPSILON)",
+        "Cost": 20,
         "NextHop": "P"
       }
     ]
@@ -2943,11 +2943,6 @@
         "NextHop": "P"
       },
       {
-        "Destination": "(EPSILON)",
-        "Cost": 26,
-        "NextHop": "P"
-      },
-      {
         "Destination": "(DELTA)",
         "Cost": 15,
         "NextHop": "P"
@@ -2965,6 +2960,11 @@
       {
         "Destination": "(GAMA)",
         "Cost": 10,
+        "NextHop": "P"
+      },
+      {
+        "Destination": "(EPSILON)",
+        "Cost": 19,
         "NextHop": "P"
       }
     ]
@@ -4264,28 +4264,28 @@
       },
       {
         "Destination": "B",
-        "Cost": 19,
-        "NextHop": "S"
+        "Cost": 18,
+        "NextHop": "(FI)"
       },
       {
         "Destination": "D",
-        "Cost": 18,
-        "NextHop": "S"
+        "Cost": 17,
+        "NextHop": "(FI)"
       },
       {
         "Destination": "C",
-        "Cost": 20,
-        "NextHop": "S"
+        "Cost": 19,
+        "NextHop": "(FI)"
       },
       {
         "Destination": "F",
-        "Cost": 17,
-        "NextHop": "S"
+        "Cost": 16,
+        "NextHop": "(FI)"
       },
       {
         "Destination": "E",
-        "Cost": 19,
-        "NextHop": "S"
+        "Cost": 18,
+        "NextHop": "(FI)"
       }
     ]
   },
@@ -4553,11 +4553,6 @@
         "NextHop": "(GAMA)"
       },
       {
-        "Destination": "E",
-        "Cost": 28,
-        "NextHop": "(GAMA)"
-      },
-      {
         "Destination": "L",
         "Cost": 18,
         "NextHop": "(GAMA)"
@@ -4583,26 +4578,6 @@
         "NextHop": "(GAMA)"
       },
       {
-        "Destination": "B",
-        "Cost": 28,
-        "NextHop": "(ALPHA)"
-      },
-      {
-        "Destination": "D",
-        "Cost": 27,
-        "NextHop": "(ALPHA)"
-      },
-      {
-        "Destination": "C",
-        "Cost": 29,
-        "NextHop": "(ALPHA)"
-      },
-      {
-        "Destination": "F",
-        "Cost": 26,
-        "NextHop": "(ALPHA)"
-      },
-      {
         "Destination": "A",
         "Cost": 24,
         "NextHop": "(GAMA)"
@@ -4615,6 +4590,31 @@
       {
         "Destination": "H",
         "Cost": 28,
+        "NextHop": "(GAMA)"
+      },
+      {
+        "Destination": "B",
+        "Cost": 26,
+        "NextHop": "(GAMA)"
+      },
+      {
+        "Destination": "D",
+        "Cost": 25,
+        "NextHop": "(GAMA)"
+      },
+      {
+        "Destination": "C",
+        "Cost": 27,
+        "NextHop": "(GAMA)"
+      },
+      {
+        "Destination": "F",
+        "Cost": 24,
+        "NextHop": "(GAMA)"
+      },
+      {
+        "Destination": "E",
+        "Cost": 26,
         "NextHop": "(GAMA)"
       }
     ]
@@ -4924,27 +4924,27 @@
       },
       {
         "Destination": "B",
-        "Cost": 26,
-        "NextHop": "Z"
-      },
-      {
-        "Destination": "D",
         "Cost": 25,
         "NextHop": "Z"
       },
       {
-        "Destination": "C",
-        "Cost": 27,
-        "NextHop": "Z"
-      },
-      {
-        "Destination": "F",
+        "Destination": "D",
         "Cost": 24,
         "NextHop": "Z"
       },
       {
-        "Destination": "E",
+        "Destination": "C",
         "Cost": 26,
+        "NextHop": "Z"
+      },
+      {
+        "Destination": "F",
+        "Cost": 23,
+        "NextHop": "Z"
+      },
+      {
+        "Destination": "E",
+        "Cost": 25,
         "NextHop": "Z"
       }
     ]
@@ -5393,21 +5393,6 @@
         "NextHop": "L"
       },
       {
-        "Destination": "(EPSILON)",
-        "Cost": 37,
-        "NextHop": "L"
-      },
-      {
-        "Destination": "(ALPHA)",
-        "Cost": 42,
-        "NextHop": "L"
-      },
-      {
-        "Destination": "(GAMA)",
-        "Cost": 20,
-        "NextHop": "L"
-      },
-      {
         "Destination": "Z",
         "Cost": 13,
         "NextHop": "L"
@@ -5434,12 +5419,27 @@
       },
       {
         "Destination": "(DELTA)",
-        "Cost": 24,
+        "Cost": 20,
         "NextHop": "L"
       },
       {
         "Destination": "(BETA)",
-        "Cost": 27,
+        "Cost": 21,
+        "NextHop": "L"
+      },
+      {
+        "Destination": "(ALPHA)",
+        "Cost": 21,
+        "NextHop": "L"
+      },
+      {
+        "Destination": "(GAMA)",
+        "Cost": 15,
+        "NextHop": "L"
+      },
+      {
+        "Destination": "(EPSILON)",
+        "Cost": 24,
         "NextHop": "L"
       }
     ]

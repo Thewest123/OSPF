@@ -1,0 +1,635 @@
+{
+  "$type": "System.Collections.Generic.List`1[[OSPFCalculator.LinkVisual, OSPFCalculator]], mscorlib",
+  "$values": [
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "A",
+      "Target": "B"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "A",
+      "Target": "D"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "A",
+      "Target": "(RO)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "B",
+      "Target": "A"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "B",
+      "Target": "C"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "B",
+      "Target": "G"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "C",
+      "Target": "B"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "C",
+      "Target": "D"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "C",
+      "Target": "G"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "D",
+      "Target": "C"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "D",
+      "Target": "A"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "D",
+      "Target": "E"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "D",
+      "Target": "(RO)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "D",
+      "Target": "R"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "E",
+      "Target": "D"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "E",
+      "Target": "F"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "E",
+      "Target": "H"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "E",
+      "Target": "Q"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "F",
+      "Target": "E"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "F",
+      "Target": "G"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "F",
+      "Target": "H"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "G",
+      "Target": "B"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "G",
+      "Target": "C"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "G",
+      "Target": "F"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "G",
+      "Target": "(RO)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "H",
+      "Target": "E"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "H",
+      "Target": "F"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "H",
+      "Target": "(RO)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "H",
+      "Target": "I"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "I",
+      "Target": "H"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "I",
+      "Target": "J"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "I",
+      "Target": "Q"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "J",
+      "Target": "I"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "J",
+      "Target": "(RO)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "J",
+      "Target": "Q"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "J",
+      "Target": "K"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "K",
+      "Target": "L"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "K",
+      "Target": "J"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "K",
+      "Target": "N"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "K",
+      "Target": "P"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "L",
+      "Target": "(RO)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "L",
+      "Target": "K"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "L",
+      "Target": "M"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "L",
+      "Target": "(EPSILON)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "M",
+      "Target": "L"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "M",
+      "Target": "N"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "M",
+      "Target": "W"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "N",
+      "Target": "M"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "N",
+      "Target": "K"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "N",
+      "Target": "O"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "N",
+      "Target": "V"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "O",
+      "Target": "N"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "O",
+      "Target": "U"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "O",
+      "Target": "P"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "P",
+      "Target": "Q"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "P",
+      "Target": "K"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "P",
+      "Target": "O"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "P",
+      "Target": "T"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "P",
+      "Target": "S"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "P",
+      "Target": "R"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "Q",
+      "Target": "J"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "Q",
+      "Target": "I"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "Q",
+      "Target": "E"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "Q",
+      "Target": "R"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "Q",
+      "Target": "P"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "R",
+      "Target": "D"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "R",
+      "Target": "Q"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "R",
+      "Target": "P"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "R",
+      "Target": "S"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "R",
+      "Target": "(EPSILON)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "S",
+      "Target": "R"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "S",
+      "Target": "P"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "S",
+      "Target": "Z"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "S",
+      "Target": "(FI)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "T",
+      "Target": "P"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "T",
+      "Target": "(FI)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "T",
+      "Target": "U"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "U",
+      "Target": "T"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "U",
+      "Target": "O"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "U",
+      "Target": "V"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "U",
+      "Target": "W"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "U",
+      "Target": "X"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "V",
+      "Target": "N"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "V",
+      "Target": "U"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "V",
+      "Target": "W"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "W",
+      "Target": "M"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "W",
+      "Target": "V"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "W",
+      "Target": "U"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "W",
+      "Target": "(GAMA)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "W",
+      "Target": "(EPSILON)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "X",
+      "Target": "U"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "X",
+      "Target": "Y"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "X",
+      "Target": "(GAMA)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "Y",
+      "Target": "X"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "Y",
+      "Target": "(FI)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "Y",
+      "Target": "(ALPHA)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "Z",
+      "Target": "(FI)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "Z",
+      "Target": "S"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "Z",
+      "Target": "(DELTA)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(ALPHA)",
+      "Target": "Y"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(ALPHA)",
+      "Target": "(BETA)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(ALPHA)",
+      "Target": "(DELTA)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(BETA)",
+      "Target": "(ALPHA)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(BETA)",
+      "Target": "(DELTA)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(BETA)",
+      "Target": "(GAMA)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(BETA)",
+      "Target": "(EPSILON)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(GAMA)",
+      "Target": "X"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(GAMA)",
+      "Target": "W"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(GAMA)",
+      "Target": "(BETA)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(DELTA)",
+      "Target": "(ALPHA)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(DELTA)",
+      "Target": "(BETA)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(DELTA)",
+      "Target": "Z"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(EPSILON)",
+      "Target": "W"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(EPSILON)",
+      "Target": "(BETA)"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(EPSILON)",
+      "Target": "L"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(EPSILON)",
+      "Target": "R"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(FI)",
+      "Target": "T"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(FI)",
+      "Target": "S"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(FI)",
+      "Target": "Z"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(FI)",
+      "Target": "Y"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(RO)",
+      "Target": "A"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(RO)",
+      "Target": "G"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(RO)",
+      "Target": "H"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(RO)",
+      "Target": "J"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(RO)",
+      "Target": "L"
+    },
+    {
+      "$type": "OSPFCalculator.LinkVisual, OSPFCalculator",
+      "Source": "(RO)",
+      "Target": "D"
+    }
+  ]
+}

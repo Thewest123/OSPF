@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using Newtonsoft.Json;
 
 namespace OSPFCalculator
@@ -107,6 +108,12 @@ namespace OSPFCalculator
                 //Ulozeni aktualizace o novych a smazanych routach
                 SaveNewInfo();
             }
+        }
+
+        public bool DoContinue()
+        {
+            if (Routes.Exists(r => r.IsChanged && r.IsNew)) return true;
+            else return false;
         }
     }
 }
