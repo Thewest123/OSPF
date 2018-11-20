@@ -59,7 +59,6 @@ namespace OSPFCalculator
                 }
             }
 
-            //-------------puvodni-------------------
             //Vypis vypocitanych stage
             int stage = 0;
             while (nodes[0].Routes.Count != nodes.Count - 1)
@@ -86,7 +85,6 @@ namespace OSPFCalculator
                     }
                 }
             }
-            //-------------konec puvodni-------------------
 
             Console.WriteLine();
             Console.WriteLine("Stiskněte Enter pro ukončení");
